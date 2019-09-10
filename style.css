@@ -9,6 +9,37 @@ body{
 }
 
 #img1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 75%;
-    text-align: center;
+
+}
+ul{
+    font-size: 25;
+    font-family: Luminari, fantasy;
+    
+
+}
+.lidiv{
+    
+    border: solid lightgreen 5px;
+    border-radius: 25px;
+    
+}
+iframe{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 75%;
+
+}
+ol{
+    font-size: 25;
+    font-family: Luminari, fantasy; 
+
+}
+
+h2{
+    font-family: Luminari, fantasy;
 }
